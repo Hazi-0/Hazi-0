@@ -1,4 +1,4 @@
-# Merhaba, ben Hazal! 👋
+# Merhaba, ben Hazal! 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hazal&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="hazal" />
@@ -8,12 +8,12 @@
 
 ---
 
-### 🚀 Mühendislik Odak Alanlarım
+###  Mühendislik Odak Alanlarım
 
-- **🛡️ Savunma Sanayii:** Gerçek Zamanlı Dağıtık Sistemler (Distributed Systems), Sensör Veri Füzyonu ve Görev Kritik Yazılım Geliştirme.
-- **🚗 Otomotiv Teknolojileri:** Gömülü Sistemler (Embedded Systems), Otonom Araç Algoritmaları ve Araç İçi Ağ Protokolleri.
-- **⚙️ Sistem Mimarisi:** Mikroservisler, Docker Konteynerizasyon ve Redis ile Yüksek Hızlı Veri Yönetimi.
-- **🖥️ HMI Development:** C# ve WPF kullanarak askeri/endüstriyel standartlarda kullanıcı arayüzleri tasarımı.
+- ** Savunma Sanayii:** Gerçek Zamanlı Dağıtık Sistemler (Distributed Systems), Sensör Veri Füzyonu ve Görev Kritik Yazılım Geliştirme.
+- ** Otomotiv Teknolojileri:** Gömülü Sistemler (Embedded Systems), Otonom Araç Algoritmaları ve Araç İçi Ağ Protokolleri.
+- ** Sistem Mimarisi:** Mikroservisler, Docker Konteynerizasyon ve Redis ile Yüksek Hızlı Veri Yönetimi.
+- ** HMI Development:** C# ve WPF kullanarak askeri/endüstriyel standartlarda kullanıcı arayüzleri tasarımı.
 
 ---
 
@@ -29,7 +29,7 @@
 
 ---
 
-### 🌐 Dil Yetkinlikleri
+###  Dil Yetkinlikleri
 
 - **🇹🇷 Türkçe:** Anadil
 - **🇬🇧 İngilizce:** İleri Seviye (Advanced)
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+###  GitHub İstatistiklerim
 
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hazal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -49,4 +49,4 @@
 *“Geleceğin teknolojilerini, mühendislik disiplini ve inovasyonla inşa ediyorum.”*
 
 ---
-📫 **İletişim:** hazalkondakci12@gmail.com
+ **İletişim:** hazalkondakci12@gmail.com
